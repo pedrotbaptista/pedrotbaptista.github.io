@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <em>"Philosopher's stone."</em> - António Gedeão
+  <em>Philosopher's stone</em> - António Gedeão
 </p>
 
 <p align="center">
