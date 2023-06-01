@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p align="center">
-  <img src="/images/almendres.jpeg" height = "200" width="400"/>
+  <img src="/images/almendres.jpg" height = "200" width="400"/>
 </p>
 
 I am a Research Trainee at the European Central Bank working with . Prior to that, I was a trader in the Emerging Markets fixed-income desk at Banco de Portugal.
