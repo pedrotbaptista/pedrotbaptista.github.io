@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 <br>
-<b>"To forbear or not to forbear: Credit renegotiation patterns"</b><br>
+<b>"Bouncing back: Heregeneous effects of loan renegotiations."</b><br>
 Work in progress with Carla Marques and Tiago Pinheiro.<br>
-<a href="http://pedrotbaptista.github.io/files/Maths_Paper.pdf" target="_blank">Download paper here</a>.<br>
 <br>
 <br>
 <b>Master's thesis</b>
