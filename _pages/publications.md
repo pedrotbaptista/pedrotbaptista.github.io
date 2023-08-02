@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 <b>"Bouncing back: Heterogeneous effects of loan renegotiations."</b><br>
-Work in progress with Carla Marques and <a href="http://tiagopinheiro.com/" target="_blank">Tiago Pinheiro</a>.<br>
+Work in progress with Carla Marques and [http://tiagopinheiro.com/](Tiago Pinheiro).<br>
 <br>
 <br>
 <b>Master's thesis</b>
