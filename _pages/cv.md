@@ -21,9 +21,7 @@ Work experience
 * Aug 2023 - Present: Research Trainee
   * European Central Bank, Frankfurt, Germany
   * Economics Directorate
-  * Duties included: Tagging issues
 
-* Sep 2022 - Jul 2023: Intern Economist
+* Sep 2022 - Jul 2023: Research Assistant
   * Banco de Portugal, Lisbon, Portugal
   * Financial Stability Department
-  * Duties included: Tagging issues
