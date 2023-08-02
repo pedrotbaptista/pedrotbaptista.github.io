@@ -23,4 +23,4 @@ My research interests lie in financial markets, debt sustainability, labour econ
 
 I write at [escassez de ideias](https://www.escassezdeideias.substack.com/) (in Portuguese). <br />
 
-You can contact me at pedro dot baptista at ecb dot europa dot eu.
+You can contact me at [pedro.baptista@ecb.europa.eu](mailto:pedro.baptista@ecb.europa.eu).
