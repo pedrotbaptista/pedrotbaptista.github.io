@@ -21,6 +21,6 @@ I hold a Bsc in Economics from Universidade Católica Portuguesa and an MPhil in
 I am interested in studying the behavior of small entities and their dynamics within large complex systems.
 My research interests lie in public and household finance, labour economics, and applied econometrics. <br />
 
-I write at [escassez de ideias](https://www.escassezdeideias.substack.com/) (in Portuguese). <br />
+I write at [escassez de ideias](https://escassezdeideias.substack.com/) (in Portuguese). <br />
 
 You can contact me at [pedro.baptista@ecb.europa.eu](mailto:pedro.baptista@ecb.europa.eu).
