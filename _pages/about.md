@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<meta name="google-site-verification" content="mEXeDTss6JDwUchJWlsvEKUwPBErwc5jf_9c9DYS49M" />
 <!-- <p align="center">
   <em>Philosopher's stone</em> - António Gedeão
 </p>
