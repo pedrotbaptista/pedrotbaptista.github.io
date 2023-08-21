@@ -16,7 +16,7 @@ redirect_from:
 </p> -->
 
 I am a Research Trainee at the Economics Directorate of the European Central Bank working with the Consumer Expectations Survey. Prior to that, I was a Research Assistant at the Bank of Portugal.
-I hold a Bsc in Economics from Universidade Católica Portuguesa and an MPhil in Economics from the University of Cambridge.<br /> 
+I hold a BSc in Economics from Universidade Católica Portuguesa and an MPhil in Economics from the University of Cambridge.<br /> 
 
 I am interested in studying the behavior of small entities and their dynamics within large complex systems.
 My research interests lie in public and household finance, labour economics, and applied econometrics. <br />
