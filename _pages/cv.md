@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Aug 2023 - Present: Research Trainee
+* Aug 2023 - Present: Trainee
   * European Central Bank, Frankfurt, Germany
   * Economics Directorate
 
