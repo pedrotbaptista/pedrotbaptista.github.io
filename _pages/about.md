@@ -20,7 +20,7 @@ I hold a BSc in Economics from Universidade Católica Portuguesa and an MPhil in
 
 I am interested in studying the dynamics of welfare systems and the effect of taxation on economic behaviour.
 
-My research interests lie in public and household finance, labour economics, and applied econometrics. <br />
+My research interests lie in public and household finance, labour economics, and applied metrics. <br />
 
 From time to time, I write at [escassez de ideias](https://escassezdeideias.substack.com/) (in Portuguese). <br />
 
