@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my resume [here](http://pedrotbaptista.github.io/files/pedro_CV.pdf).
+You can find my resume [here](http://pedrotbaptista.github.io/files/CV2023.pdf).
 
 Education
 ======
