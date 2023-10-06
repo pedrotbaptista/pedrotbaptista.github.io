@@ -15,7 +15,7 @@ redirect_from:
   <img src="/images/almendres.jpg" height = "200" width="400"/>
 </p> -->
 
-I am a Trainee at the Economics Directorate of the European Central Bank working with the Consumer Expectations Survey. Prior to that, I was a Research Assistant at the Bank of Portugal.
+I am a Trainee at the Economics Directorate of the European Central Bank working with the [Consumer Expectations Survey](https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html). Prior to that, I was a Research Assistant at the Bank of Portugal.
 I hold a BSc in Economics from Universidade Católica Portuguesa and an MPhil in Economics from the University of Cambridge.<br /> 
 
 I am interested in studying the dynamics of welfare systems and the effect of taxation on economic behaviour.
