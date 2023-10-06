@@ -22,6 +22,7 @@ Work experience
   * European Central Bank, Frankfurt, Germany
   * Economics Directorate
 
+
 * Sep 2022 - Jul 2023: Research Assistant
   * Banco de Portugal, Lisbon, Portugal
   * Financial Stability Department
