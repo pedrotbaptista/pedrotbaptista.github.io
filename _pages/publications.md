@@ -6,15 +6,11 @@ author_profile: true
 ---
 
 <br>
-<b>"Bouncing back: Heterogeneous effects of loan renegotiations."</b><br>
+<b>Bouncing back: Heterogeneous effects of loan renegotiations</b><br>
 Work in progress with Carla Marques and [Tiago Pinheiro](http://www.tiagopinheiro.com/).<br />
-<i>[[presentation]](http://pedrotbaptista.github.io/files/bouncing_back.pdf) [working paper (soon)]</i><br>
+<font size="-2"><i>[[presentation]](http://pedrotbaptista.github.io/files/bouncing_back.pdf) [working paper]</i></font><br>
 <br>
-<br>
-<b>Master's thesis</b>
-<ul style="margin-top:-1px;">
-    <li>
-        <a href="http://pedrotbaptista.github.io/files/gmi_thesis.pdf" target="_blank">Minimum income, insertion programmes,
-and labour market outcomes</a>
-    </li>
-</ul>
+<b>Minimum income, insertion programmes, and labour market outcomes</b><br>
+Master's thesis, 2022.<br />
+<font size="-2">[[paper]](http://pedrotbaptista.github.io/files/gmi_thesis.pdf)</font><br>
+
