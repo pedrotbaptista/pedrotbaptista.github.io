@@ -16,7 +16,7 @@ redirect_from:
 </p> -->
 
 I am a Research Analyst in the DG-Economics of the European Central Bank working with the [Consumer Expectations Survey](https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html). Prior to that, I was a Research Assistant at the Bank of Portugal.
-I hold a BSc in Economics from Universidade Católica Portuguesa and an MPhil in Economics from the University of Cambridge.<br /> ~
+I hold a BSc in Economics from Universidade Católica Portuguesa and an MPhil in Economics from the University of Cambridge.<br /> 
 
 My research focuses on the role of expectations in shaping economic behaviour. I am especially interested in how expectations influence household financial decisions, labour supply, and wage-setting dynamics. My work draws on public and household finance, labour economics, and applied econometrics to explore these issues and their policy implications. <br />
 
