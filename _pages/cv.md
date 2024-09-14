@@ -18,9 +18,10 @@ Education
 
 Work experience
 ======
-* Aug 2023 - Present: Trainee
+* Aug 2024 - Present: Research Analyst
+* Aug 2023 - Jul 2024: Trainee
   * European Central Bank, Frankfurt, Germany
-  * Economics Directorate
+  * Business Cycle Analysis, DG-Economics
 
 
 * Sep 2022 - Jul 2023: Research Assistant
