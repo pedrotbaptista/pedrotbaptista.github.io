@@ -12,5 +12,5 @@ Work in progress with Carla Marques and [Tiago Pinheiro](http://www.tiagopinheir
 <br>
 <b>Minimum income, insertion programmes, and labour market outcomes</b><br>
 Master's thesis, 2022.<br />
-[<font size="-1">[paper]</font>](http://pedrotbaptista.github.io/files/gmi_thesis.pdf)<br>
+%[<font size="-1">[paper]</font>](http://pedrotbaptista.github.io/files/gmi_thesis.pdf)<br>
 
